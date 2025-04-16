@@ -1,0 +1,5 @@
+{
+  "1.0.0": "Initial release with slash commands and Reddit support.",
+  "1.1.0": "Added server-specific settings and auto-post feature.",
+  "1.2.0": "Patch notes command added."
+}
